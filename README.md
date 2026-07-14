@@ -23,6 +23,7 @@ To solve these challenges, I built an end-to-end data pipeline and visualization
 
 <img width="1273" height="716" alt="Dashboard" src="https://github.com/user-attachments/assets/763f545a-9412-45d1-8223-3882bd775497" />
 https://drive.google.com/file/d/1H7PEoWxe_iMCMJQlI9DoBcsUShQwbgzn/view?usp=sharing
+
 ---
 
 ## Business Insights Delivered

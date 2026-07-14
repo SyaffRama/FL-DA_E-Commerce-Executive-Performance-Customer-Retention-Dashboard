@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project transforms raw transactional data into an executive-ready dashboard. It analyzes real transactional data from a UK-based online retailer. The main goal is to provide a single source of truth for your business, allowing you to monitor financial health and customer loyalty in real time.
+Dataset: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ---
 

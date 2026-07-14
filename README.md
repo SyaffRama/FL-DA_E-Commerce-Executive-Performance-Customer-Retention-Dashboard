@@ -22,7 +22,7 @@ To solve these challenges, I built an end-to-end data pipeline and visualization
 * **UI/UX Design:** I designed a clean, modern dashboard layout with a collapsible filter panel to maximize screen space and applied automatic color gradients for instant readability.
 
 <img width="1273" height="716" alt="Dashboard" src="https://github.com/user-attachments/assets/763f545a-9412-45d1-8223-3882bd775497" />
-
+https://drive.google.com/file/d/1H7PEoWxe_iMCMJQlI9DoBcsUShQwbgzn/view?usp=sharing
 ---
 
 ## Business Insights Delivered
